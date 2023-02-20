@@ -10,7 +10,7 @@
 I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 * B.tech in Agriculture Engineering
 * You can contact me at [sunnyshekhada@gmail.com](mailto:sunnyshekhada@gmail.com)
-* I'm learning Data science
+* I'm learning Data science.
 
 
 
