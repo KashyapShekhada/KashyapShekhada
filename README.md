@@ -45,6 +45,9 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashturakhia7&label=Profile%20views&color=0e75b6&style=flat" alt="yashturakhia7" /> </p>
+
+![Example GIF](https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg)
 
 
 
